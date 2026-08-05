@@ -39,7 +39,7 @@ void solve() {
     cout << "\n";
     
 
-}
+} // namespace std
 
 int main() {
     //os_base::sync_with_stdio(false);
