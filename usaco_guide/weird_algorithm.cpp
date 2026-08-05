@@ -33,10 +33,10 @@ void solve() {
 
     
 
-    for (int x : all_ns) {
-    cout << x << " ";
-}
-    cout << "\n";   
+    for (long long x : all_ns) {
+        cout << x << " ";
+    }
+    cout << "\n";
     
 
 }
